@@ -5,5 +5,5 @@
 <p align='center'>
     <a href="https://www.linkedin.com/in/gianfigueiredo/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/luca16s/luca16s/main/in.png"></a>
     <a href="https://steamcommunity.com/id/gian_luca_/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/luca16s/luca16s/main/steam.png"></a>
-    <a href="https://discord.com/users/551810246587318272" target="_blank"><img height="30" src="https://raw.githubusercontent.com/luca16s/luca16s/main/discord.png"></a>
+    <a href="https://discord.com/users/551810246587318272/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/luca16s/luca16s/main/discord.png"></a>
 </p>

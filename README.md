@@ -1,4 +1,1 @@
-## Hi there, I'm Gian Luca.
-
-#### About Me
-
+# <img src="https://raw.githubusercontent.com/luca16s/luca16s/main/octocat.png" width="400"/>

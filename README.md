@@ -12,5 +12,7 @@
 <br><br><br>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=luca16s&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca16s&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luca16s&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

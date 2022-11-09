@@ -20,20 +20,21 @@
 [![IDE](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
 * Linguagens: C#, JavaScript, TypeScript, Lua, Java, Python
-* Versionamento: Git, GitHub e GitLab
-* Infraestrutura: Docker, GitHub Actions
+* Infraestrutura: Docker, GitHub Actions, PoweShell
 * Databases: MongoDB, MySQL, Oracle
+* Versionamento: Git, GitHub e GitLab
+* Desktop: WPF, Windows Forms
 * Mobile: Xamarin
 * Web: Angular
-* Desktop: WPF, Windows Forms
 
 ### Fale Comigo
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gianfigueiredo)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/551810246587318272/)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/8011488/luca16s)
-<a href="https://steamcommunity.com/id/gian_luca_/" target="_blank"><img height="48" src="https://raw.githubusercontent.com/luca16s/luca16s/main/steam.png"></a>
 <a href="http://lattes.cnpq.br/7677595601047677" target="_blank"><img height="48" src="https://raw.githubusercontent.com/luca16s/luca16s/main/lattes.svg"></a>
+<a href="https://steamcommunity.com/id/gian_luca_/" target="_blank"><img height="48" src="https://raw.githubusercontent.com/luca16s/luca16s/main/steam.png"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca16s&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=luca16s&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -24,6 +24,7 @@
 * Infraestrutura: Docker, GitHub Actions
 * Databases: MongoDB, MySQL, Oracle
 * Mobile: Xamarin
+* Web: Angular
 * Desktop: WPF, Windows Forms
 
 ### Fale Comigo

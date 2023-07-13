@@ -2,8 +2,8 @@
 
 * Atualmente desenvolvedor de Software no [Instituto Tecgraf](https://www.tecgraf.puc-rio.br)
 * Formado Analista de Sistemas pela [FAETERJ](http://faeterj-paracambi.com.br)
-* pós Graduado em Engenharia de Software Focado na Stack .NET pelo [Instituto Infnet](https://www.infnet.edu.br/infnet/home)
-* Atualmente cursando Pós Graduação de Finanças Com Ênfase em Mercado de Capitais na [Descomplica](https://descomplica.com.br/)
+* Pós Graduado em Engenharia de Software Focado na Stack .NET pelo [Instituto Infnet](https://www.infnet.edu.br/infnet/home)
+* Pós Graduado em Finanças Com Ênfase em Mercado de Capitais na [Descomplica](https://descomplica.com.br/)
 
 ### Stack de desenvolvimento principal 👨🏻‍💻
 [![Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,ts)](https://skillicons.dev)

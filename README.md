@@ -35,6 +35,4 @@
 <a href="http://lattes.cnpq.br/7677595601047677" target="_blank"><img height="48" src="https://raw.githubusercontent.com/luca16s/luca16s/main/lattes.svg"></a>
 <a href="https://steamcommunity.com/id/gian_luca_/" target="_blank"><img height="48" src="https://raw.githubusercontent.com/luca16s/luca16s/main/steam.png"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca16s&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=luca16s&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=luca16s&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca16s&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
